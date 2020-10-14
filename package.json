@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sean2073/jest-another-RPG.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sean2073/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/sean2073/jest-another-RPG#readme",
+  "dependencies": {
+    "node": "^14.13.1"
+  }
+}
